@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Tactile Perception for Robot Grasping and Manipulation
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+redirect: https://milesprieb.github.io/umn_deeprob_23/
+importance: 1
 category: work
 ---
 
