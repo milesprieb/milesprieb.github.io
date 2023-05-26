@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tactile Perception for Robot Grasping and Manipulation
-img: assets/img/gel_cover.jpg
-redirect: https://milesprieb.github.io/umn_deeprob_23/
-importance: 1
+title:  Computer-Mediated Compression as a new paradigm for remote interaction
+img: assets/img/spd_vest.jpg
+redirect: https://design.umn.edu/wearable-technology-lab/research/computer-mediated-compression
+importance: 3
 category: work
 ---
 

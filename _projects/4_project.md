@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tactile Perception for Robot Grasping and Manipulation
-img: assets/img/gel_cover.jpg
-redirect: https://milesprieb.github.io/umn_deeprob_23/
-importance: 1
+title:  Grand Challenges Research Project, Smart Hugs
+img: assets/img/thermal-camera.jpg
+redirect: https://smarthugs.umn.edu/
+importance: 2
 category: work
 ---
 
