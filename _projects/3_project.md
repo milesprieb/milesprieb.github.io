@@ -2,7 +2,7 @@
 layout: page
 title: Tactile Perception for Robot Grasping and Manipulation
 img: assets/img/gel_cover.jpg
-# redirect: https://milesprieb.github.io/umn_deeprob_23/
+redirect: https://milesprieb.github.io/umn_deeprob_23/
 importance: 1
 category: work
 ---
