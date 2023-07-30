@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title:  Grand Challenges Research Project, Smart Hugs
+img: assets/img/thermal-camera.jpg
+redirect: https://smarthugs.umn.edu/
+importance: 2
+category: work
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

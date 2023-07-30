@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title:  Computer-Mediated Compression as a new paradigm for remote interaction
+img: assets/img/spd_vest.jpg
+redirect: https://design.umn.edu/wearable-technology-lab/research/computer-mediated-compression
 importance: 3
-category: fun
+category: work
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

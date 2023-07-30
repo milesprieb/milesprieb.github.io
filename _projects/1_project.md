@@ -2,10 +2,9 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/left_knight_2023-02-08 16_55_43.015304.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
