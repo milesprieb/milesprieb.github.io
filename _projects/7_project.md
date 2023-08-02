@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Visuotactile Research using the Toyota Robotics Institute Punyo Soft Bubble Gripper
-img: assets/img/IMG_1391
+img: assets/img/IMG_1391.jpg
 redirect: https://resonant-blinker-54d.notion.site/University-of-Minnesota-Robotics-Institute-MNRI-Master-s-Capstone--5fb15871e4944ab3b4287c9ef0672440
 importance: 3
 category: work
