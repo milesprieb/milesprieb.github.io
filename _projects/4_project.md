@@ -1,10 +1,11 @@
 ---
 layout: page
 title:  Grand Challenges Research Project, Smart Hugs
+description: Developing and deploying novel, personalized technology that integrates conversational voice assistants with wearable sensors and smart-textile clothing technology.
 img: assets/img/thermal-camera.jpg
 redirect: https://smarthugs.umn.edu/
 importance: 2
-category: work
+category: Soft Robotics
 ---
 
 

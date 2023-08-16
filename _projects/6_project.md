@@ -4,7 +4,7 @@ title:  LiDAR-based Map Generation and Re-Localization in GPS-Denied Environment
 img: assets/img/toro-logo-black.png
 redirect: https://resonant-blinker-54d.notion.site/TTC-Internship-Summer-2023-0566d8f375e34e4aa0840f5db3c9aeca?pvs=4
 importance: 3
-category: work
+category: Navigation and Mapping
 ---
 
 

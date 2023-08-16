@@ -1,10 +1,11 @@
 ---
 layout: page
 title:  Computer-Mediated Compression as a new paradigm for remote interaction
+description: Expand our understanding and ability to enable remote human-human interaction through novel application of computer-mediated compression.
 img: assets/img/spd_vest.jpg
 redirect: https://design.umn.edu/wearable-technology-lab/research/computer-mediated-compression
 importance: 3
-category: work
+category: Soft Robotics
 ---
 
 

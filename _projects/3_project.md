@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Tactile Perception for Robot Grasping and Manipulation
-img: assets/img/gel_cover.jpg
+description: Exploring tactile perception for robotic manipulation in simulation (Tacto) and real life (UR5e and Gelsight sensor).
+img: assets/img/gel.gif
 redirect: https://milesprieb.github.io/umn_deeprob_23/
-importance: 1
-category: work
+importance: 2
+category: Tactile Perception
 ---
  
 

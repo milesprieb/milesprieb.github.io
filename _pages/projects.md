@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 nav: true
 nav_order: 3
-display_categories: [work]
-horizontal: false
+display_categories: [Tactile Perception, Navigation and Mapping, Soft Robotics]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
