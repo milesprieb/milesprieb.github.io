@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  LiDAR-based Map Generation and Re-Localization in GPS-Denied Environments
+description: The objective of this project is to develop a framework forgenerating environment mapsand re-localizing the startingpoint of a robot, using LiDARsensor data. This frameworkprovides the opportunity tobuild data offloading pipelinesto path planning and areaclearing cloud tools. Maps canthen be iteratively updatedwith GIS data when available,and robots can operate withhigher accuracy and safety inthe long-term.
 img: assets/img/toro-logo-black.png
 redirect: https://resonant-blinker-54d.notion.site/TTC-Internship-Summer-2023-0566d8f375e34e4aa0840f5db3c9aeca?pvs=4
 importance: 3
