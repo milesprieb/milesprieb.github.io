@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Visuotactile Research using the Toyota Research Institute Punyo Soft Bubble Gripper
-description: Replication and extension of the SoftBubble visuo-tactile sensor from Punyo at Toyota Robotics Institute.
-img: assets/img/softbubble3.gif
+title:  Applications of the Soft Bubble Grippers - Visuotactile Sensing for Visuomotor Policy Learning
+description: Redesign/Application of the Soft Bubble Grippers from Punyo at Toyota Research Institute (TRI) for Visuotactile Sensing and Visuomotor Policy Learning
+img: assets/img/eval1_2.gif
 redirect: https://milesprieb.github.io/umn_rpm_softbubble/
 importance: 1
 category: Tactile Perception
